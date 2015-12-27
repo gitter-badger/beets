@@ -91,3 +91,8 @@ please contact the `mailing list`_.
 
 .. _mailing list: https://groups.google.com/forum/#!forum/beets-users
 .. _Adrian Sampson: http://homes.cs.washington.edu/~asampson/
+
+
+.. image:: https://badges.gitter.im/yunuskorkmaz/beets.svg
+   :alt: Join the chat at https://gitter.im/yunuskorkmaz/beets
+   :target: https://gitter.im/yunuskorkmaz/beets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
